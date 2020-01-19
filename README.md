@@ -10,3 +10,4 @@ List of HackerRank Programs
   6. Print Function
   7. Arithmetic Operations
   8. List Comprehension
+  9. What's Your Name
