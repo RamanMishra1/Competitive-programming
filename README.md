@@ -11,3 +11,4 @@ List of HackerRank Programs
   7. Arithmetic Operations
   8. List Comprehension
   9. What's Your Name
+  10. String Split and Join
