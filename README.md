@@ -14,3 +14,4 @@ List of HackerRank Programs
   10. String Split and Join
   11. sWAP cASE
   12. Mutations
+  13. Lists
