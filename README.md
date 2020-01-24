@@ -15,3 +15,7 @@ List of HackerRank Programs
   11. sWAP cASE
   12. Mutations
   13. Lists
+
+List of Codechef Programs
+Beginner:
+  1. ATM
