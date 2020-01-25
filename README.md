@@ -20,3 +20,4 @@ List of Codechef Programs
 
 Beginner:
   1. ATM
+  2. STFOOD
