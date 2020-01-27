@@ -15,6 +15,7 @@ List of HackerRank Programs
   11. sWAP cASE
   12. Mutations
   13. Lists
+  14. Tuples
 
 List of Codechef Programs
 
