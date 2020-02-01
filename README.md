@@ -18,7 +18,7 @@ List of HackerRank Programs
   14. Tuples
   15. Finding the percentage
   16. Text wrap
-
+  17. Find a string
 List of Codechef Programs
 
 Beginner:
